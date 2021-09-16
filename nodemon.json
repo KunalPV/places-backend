@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "kunal",
+    "DB_PASSWORD": "kunal.p.v00",
+    "DB_NAME": "places"
+  }
+}
